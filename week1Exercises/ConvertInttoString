@@ -1,0 +1,2 @@
+var nombre= beaulah
+console.log("nombre is converted " +typeof(nombre+" ")+ "successfully")

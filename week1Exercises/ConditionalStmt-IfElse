@@ -1,0 +1,19 @@
+//for loop//
+function numbertype(number)
+{
+    if(number>0)
+    {
+console.log("The number is positive")
+    }
+    else if(number<0)
+    {
+        console.log("The number is negative")
+    }
+    else if(number==0)
+    {
+        console.log("The number is Zero")
+    }
+}
+console.log(numbertype(10))
+console.log(numbertype(-20))
+console.log(numbertype(0))

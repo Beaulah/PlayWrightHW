@@ -1,0 +1,3 @@
+var detail='beaulah'
+console.log(detail)
+console.log(typeof(detail))

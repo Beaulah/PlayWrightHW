@@ -1,0 +1,11 @@
+const browserVersion = 'Chrome'
+function getBrowserVersion()
+{
+    if(browserVersion=='Chrome')
+    {
+       var browserVersion ='firefox'
+       console.log(browserVersion)
+    }
+    console.log(browserVersion)
+}
+console.log(getBrowserVersion)

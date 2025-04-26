@@ -1,0 +1,21 @@
+let str1='listen'
+let str2='silent'
+
+if(str1.length!==str2.length)
+{
+console.log("Not anagram")
+return false
+}
+
+let refinedstring1 = str1.split(" ").sort().join(" ")
+let refinedstring2 = str2.split(" ").sort().join(" ")
+console.log(refinedstring1)
+console.log(refinedstring2)
+
+if(refinedstring1==refinedstring2)
+{
+    console.log("Both are anagrams")
+}
+else{
+    console.log("both are not anagrams")
+}

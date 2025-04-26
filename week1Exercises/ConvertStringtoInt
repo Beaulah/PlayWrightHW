@@ -1,0 +1,2 @@
+var detail ='44'
+console.log(typeof(+detail)+" :its converted")

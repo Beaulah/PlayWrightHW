@@ -1,0 +1,15 @@
+//firstname//
+let firstName = 'Beaulah'
+console.log(typeof(firstName))
+//companyname//
+let companyname ="NTT"
+console.log(typeof(companyname))
+//mobileNumber//
+let mobileNumber =9600998748
+console.log(typeof(mobileNumber))
+//isAutomation//
+let isAutomation=true
+console.log(typeof(isAutomation))
+//hasPlaywright//
+let hasPlaywright
+console.log(hasPlaywright)
